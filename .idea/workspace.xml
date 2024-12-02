@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98b4c884-87ff-48c4-ba42-b6614ba48966" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/test_binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/test_second_maximum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/test_valid_brackets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoritms/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoritms/second_maximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/second_maximum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoritms/valid_brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/valid_brackets.py" afterDir="false" />
-    </list>
+    <list default="true" id="98b4c884-87ff-48c4-ba42-b6614ba48966" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +37,7 @@
     "Python tests.Python tests for test_binary_search.TestBinarySearch.executor": "Run",
     "Python tests.Python tests for test_binary_search.TestBinarySearch.test_1_param.executor": "Run",
     "Python tests.Python tests for test_second_maximum.TestSecondMax.test_1_params.executor": "Run",
+    "Python tests.Python tests for test_valid_brackets.TestValidBracket.test_1_param.executor": "Run",
     "Python.binary_search.executor": "Run",
     "Python.second_maximum.executor": "Run",
     "Python.valid_brackets.executor": "Run",
@@ -54,7 +46,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_binary_search.TestBinarySearch.test_1_param">
+  <component name="RunManager" selected="Python tests.Python tests for test_valid_brackets.TestValidBracket.test_1_param">
     <configuration name="Python tests for test_binary_search.TestBinarySearch" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="algoritms_python" />
       <option name="ENV_FILES" value="" />
@@ -100,8 +92,24 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_valid_brackets.TestValidBracket.test_1_param" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="algoritms_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_valid_brackets.TestValidBracket.test_1_param&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_valid_brackets.TestValidBracket.test_1_param" />
         <item itemvalue="Python tests.Python tests for test_binary_search.TestBinarySearch.test_1_param" />
         <item itemvalue="Python tests.Python tests for test_binary_search.TestBinarySearch" />
         <item itemvalue="Python tests.Python tests for test_second_maximum.TestSecondMax.test_1_params" />

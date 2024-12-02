@@ -1,0 +1,1 @@
+This repository for ultimative algoritms, which you can saw on "leetcode"
