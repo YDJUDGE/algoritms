@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98b4c884-87ff-48c4-ba42-b6614ba48966" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/algoritms_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritms/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritms/binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritms/second_maximum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritms/valid_brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/test_binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/test_second_maximum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/test_valid_brackets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritms/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritms/second_maximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/second_maximum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritms/valid_brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/valid_brackets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +29,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2pZf31NB0g330J3IneWT9uK2RYQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,14 +43,71 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_binary_search.TestBinarySearch.executor": "Run",
+    "Python tests.Python tests for test_binary_search.TestBinarySearch.test_1_param.executor": "Run",
+    "Python tests.Python tests for test_second_maximum.TestSecondMax.test_1_params.executor": "Run",
     "Python.binary_search.executor": "Run",
     "Python.second_maximum.executor": "Run",
     "Python.valid_brackets.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_binary_search.TestBinarySearch.test_1_param">
+    <configuration name="Python tests for test_binary_search.TestBinarySearch" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="algoritms_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_binary_search.TestBinarySearch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_binary_search.TestBinarySearch.test_1_param" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="algoritms_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_binary_search.TestBinarySearch.test_1_param&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_second_maximum.TestSecondMax.test_1_params" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="algoritms_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_second_maximum.TestSecondMax.test_1_params&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_binary_search.TestBinarySearch.test_1_param" />
+        <item itemvalue="Python tests.Python tests for test_binary_search.TestBinarySearch" />
+        <item itemvalue="Python tests.Python tests for test_second_maximum.TestSecondMax.test_1_params" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

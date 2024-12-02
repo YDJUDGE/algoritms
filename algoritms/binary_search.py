@@ -1,20 +1,26 @@
+class BinarySearch:
+    def __init__(self, arr, item):
+        self.arr = arr
+        self.item = item
 
-def binary_search(arr, item):
-    low = 0
-    high = len(arr) - 1
 
-    while low <= high:
-        mid = (low+high) // 2
+    def binary_search(self):
+        low = 0
+        high = len(self.arr) - 1
 
-        if item == arr[mid]:
-            return mid
+        while low <= high:
+            mid = (low+high) // 2
 
-        if mid > item:
-            high = mid - 1
+            if self.item == self.arr[mid]:
+                print(mid)
+                return mid
 
-        else:
-            low = mid + 1
+            if self.arr[mid] > self.item:
+                high = mid - 1
 
-    return None
+            else:
+                low = mid + 1
 
-print(binary_search([1, 2, 3, 5, 6, 9, 10, 11, 16], 3))
+        print(None)
+        return None
+
