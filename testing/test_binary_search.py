@@ -14,7 +14,9 @@ class TestBinarySearch:
     @mark.parametrize("arr, item, expected_result", [
         param([1, 2, 3, 4, 5, 6], 5, 4),
         param([1], 0, None),
-        param([1, 2, 3, 4, 5, 6, 7], 7, 6)
+        param([1, 2, 3, 4, 5, 6, 7], 7, 6),
+        param([1, 2, 6, 8, 11, 12, 13], 13, 6),  # Добавил проверку множества просто отсортированного
+        param([], 0, None)  # Добавил проверку пустого множества
     ])
     def test_1_param(self, arr, item, expected_result):
         b_s = BinarySearch(arr, item)

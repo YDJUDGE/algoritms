@@ -16,8 +16,10 @@ class TestSecondMax:
     @mark.parametrize("arr, expected_result", [
         param([3, 4, 5, 10, 11], 10),
         param([3, 4, 5, 6, 7], 6),
+        param([4, 3, 2, 6, 7], 6),  # Добавил проверку неотсортированного множества
         param([3, 3, 3], None),
         param([1], None),
+        param([], None),  # Добавил проверку пустого множества
     ])
     def test_1_params(self, arr, expected_result):
         s_m = Second_maximum(arr)

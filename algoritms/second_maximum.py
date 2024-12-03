@@ -3,12 +3,18 @@ class Second_maximum:
         self.arr: list = arr
 
     def find_second_maximum(self) -> int:
+        """
+        Принимается на вход первое число массива и сторое, после они последовательно сравниваются.
+        Таким образом вычисляется второй максимум.
+        first_max - первый
+        second_max - второй
+        :return:
+        """
+        if len(self.arr) < 2:
+            return None
+
         first_max = self.arr[0]
         second_max = self.arr[0]
-
-        if len(self.arr) < 2:
-            print(None)
-            return None
 
         for i in self.arr:
             if i > first_max:
@@ -17,9 +23,7 @@ class Second_maximum:
             if i < second_max < first_max:
                 second_max = i
         if second_max == first_max:
-            print(None)
             return None
-        print(second_max)
         return second_max
 
 

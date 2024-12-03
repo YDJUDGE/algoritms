@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98b4c884-87ff-48c4-ba42-b6614ba48966" name="Changes" comment="" />
+    <list default="true" id="98b4c884-87ff-48c4-ba42-b6614ba48966" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritms/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritms/second_maximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/second_maximum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritms/valid_brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/valid_brackets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/test_binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_second_maximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/test_second_maximum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_valid_brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/test_valid_brackets.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,20 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_binary_search.TestBinarySearch.executor": "Run",
-    "Python tests.Python tests for test_binary_search.TestBinarySearch.test_1_param.executor": "Run",
-    "Python tests.Python tests for test_second_maximum.TestSecondMax.test_1_params.executor": "Run",
-    "Python tests.Python tests for test_valid_brackets.TestValidBracket.test_1_param.executor": "Run",
-    "Python.binary_search.executor": "Run",
-    "Python.second_maximum.executor": "Run",
-    "Python.valid_brackets.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_binary_search.TestBinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_binary_search.TestBinarySearch.test_1_param.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_second_maximum.TestSecondMax.test_1_params.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_valid_brackets.TestValidBracket.test_1_param.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second_maximum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.valid_brackets.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_valid_brackets.TestValidBracket.test_1_param">
     <configuration name="Python tests for test_binary_search.TestBinarySearch" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="algoritms_python" />
