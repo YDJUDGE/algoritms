@@ -7,11 +7,6 @@
     <list default="true" id="98b4c884-87ff-48c4-ba42-b6614ba48966" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algoritms/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoritms/second_maximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/second_maximum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoritms/valid_brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/algoritms/valid_brackets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/test_binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/test_binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/test_second_maximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/test_second_maximum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/test_valid_brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/test_valid_brackets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

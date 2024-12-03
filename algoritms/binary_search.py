@@ -1,10 +1,7 @@
 class BinarySearch:
     def __init__(self, arr, item):
-        if arr != sorted(arr):
-            ValueError("Arr not sorted for binary search")
         self.arr = arr
         self.item = item
-
 
     def binary_search(self):
         """
